@@ -46,4 +46,6 @@
         tools:layout_editor_absoluteY="230dp"
         tools:ignore="MissingConstraints"/>
 
+    <EditText
+        android:maxWidth="45dp" />
 </android.support.constraint.ConstraintLayout>
